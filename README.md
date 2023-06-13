@@ -13,6 +13,8 @@ The steps to install my project are as follows:
 - Install the required dependencies
 - Run "npm run build" to start the servers
 
+## Usage
+https://radiant-hamlet-90875.herokuapp.com/
 
 ## License
 
